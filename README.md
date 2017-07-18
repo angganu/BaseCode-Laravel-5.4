@@ -8,6 +8,7 @@ This repository is a copy from [Here](https://github.com/rappasoft/laravel-5-boi
 - Create Database 
 - Rename .env.example To .env && Edit
 - Compile With CMD :
+```shell
  composer install
  yarn
  php artisan key:generate
@@ -17,7 +18,7 @@ This repository is a copy from [Here](https://github.com/rappasoft/laravel-5-boi
  npm run watch -- --watch-poll
  npm run production
  phpunit
- 
+ ```
 
 ## Official Documentation
 [Click here for the official documentation](http://laravel-boilerplate.com)
